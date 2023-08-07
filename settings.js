@@ -27,8 +27,8 @@ global.CAPTION = '© 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘𝗗 𝗕𝗬 𝗔𝗥𝗢�
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = 'King-nima-gpt-bot'
-global.SESSION_ID = 'elisa_md@;;;tMNlRKjb#ICXp4Qg128S2CCBXkWFOFMyOE74VAOymGZhI417IZOY'
+global.AI_PASSWORD = 'king-nima-gpt-bot'
+global.SESSION_ID = 'elisa_md@;;;VEUmwBZb#W_N_HolV81faBYrnwMU7dSuxIWgo8ezKrp6DGHPU2oA'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
